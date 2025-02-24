@@ -14,6 +14,7 @@
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <br/></div>
     </div>
+    - 🌱 I’m currently learning ...
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=SD-gif&bg_color=60,000000,000000&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD-gif&layout=compact&bg_color=60,000000,000000&title_color=ffffff&text_color=ffffff"
