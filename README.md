@@ -16,7 +16,7 @@
     </div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌱 I’m currently learning </h2> <br>
     <div  align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-        <img src ="https://img.shields.io/badge/springsecurity-#6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+        <img src ="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
         <img src ="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
     </div>
           <br/></div>
