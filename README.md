@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1d57af&height=200&section=header&text=Dongjoon&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descSize=20&descAlignY=58&descColor=8b949e" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1d57af&center=true&vCenter=true&width=500&lines=Basic+and+Clean+Developer;Java+%7C+Spring+Boot+%7C+MySQL;Always+learning%2C+always+growing." alt="Typing SVG" />
 </div>
 
