@@ -97,18 +97,12 @@
 
 ---
 
-## 🏅 Stats
+## 🏅 Certifications
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SD-gif&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1d57af&text_color=c9d1d9&icon_color=1d57af" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD-gif&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1d57af&text_color=c9d1d9" height="165"/>
+
+| 자격증 | 발급 기관 | 취득일 |
+|--------|-----------|--------|
+| **SQLD** (SQL 개발자) | 한국데이터산업진흥원 | 2025.12.12 |
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SD-gif&theme=github-compact&bg_color=0d1117&color=1d57af&line=1d57af&point=ffffff&hide_border=true" />
-</div>
-
-<br/>
-
