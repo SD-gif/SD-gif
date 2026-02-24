@@ -86,7 +86,7 @@
 
 <div align="center">
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:alem6516@naver.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://github.com/SD-gif">
@@ -99,12 +99,19 @@
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
+
+| 구분 | 기관 | 기간 |
+|------|------|------|------|
+| 🎓 **단국대학교 학사 졸업** | 단국대학교 | 2025.08 졸업 |
+| 🎓 **Spring 백엔드 부트캠프** | Goorm X KaKao | 2024.08 ~ 2025.04 수료 |
+| 🎓 **생성형 AI 기반 Full-Stack 개발자 양성 과정 | 한국소프트웨어진흥협회 | 2026.02 ~ | 
+
+<br/>
+
+## 📜 Certifications
 
 | 구분 | 내용 | 기관 | 기간 |
-|------|------|------|------|
-| 🎓 **단국대학교 학사 졸업** |  | 2025.08 졸업 |
-| 🎓 **Spring 백엔드 부트캠프** | 구름톤 딥다이브 | Goorm X KaKao | 2024.08 ~ 2025.04 수료 |
 | 📜 **SQLD** (SQL 개발자) | SQL 개발자 자격증 | 한국데이터산업진흥원 | 2025.12.12 취득 |
 
 <br/>
