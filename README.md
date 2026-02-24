@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1d57af&height=200&section=header&text=Dongjoon&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descSize=20&descAlignY=58&descColor=8b949e" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1d57af&center=true&vCenter=true&width=500&lines=Basic+and+Clean+Developer;Java+%7C+Spring+Boot+%7C+MySQL;Always+learning%2C+always+growing." alt="Typing SVG" />
 </div>
 
@@ -16,8 +22,6 @@
 ---
 
 ## 🛠️ Tech Stacks
-
-<div align="center">
 
 **Backend**<br/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -47,8 +51,6 @@
 **Tools**<br/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
-
-</div>
 
 <br/>
 
@@ -97,12 +99,15 @@
 
 ---
 
-## 🏅 Certifications
+## 🎓 Education & Certifications
+
+| 구분 | 내용 | 기관 | 기간 |
+|------|------|------|------|
+| 🎓 **부트캠프** | 부트캠프명 입력 | 기관명 입력 | 2024.00 ~ 2025.00 |
+| 📜 **SQLD** (SQL 개발자) | SQL 개발자 자격증 | 한국데이터산업진흥원 | 2025.12.12 취득 |
+
+<br/>
 
 <div align="center">
-
-| 자격증 | 발급 기관 | 취득일 |
-|--------|-----------|--------|
-| **SQLD** (SQL 개발자) | 한국데이터산업진흥원 | 2025.12.12 |
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d57af,100:0d1117&height=100&section=footer" />
 </div>
