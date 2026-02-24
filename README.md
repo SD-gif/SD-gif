@@ -23,20 +23,34 @@
 
 ## 🛠️ Tech Stacks
 
-<div align="center">
-
-**Backend**
-
+**Backend**<br/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
-**Database & Tools**
+<br/>
 
+**Database**<br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 
-</div>
+<br/>
+
+**Infrastructure & DevOps**<br/>
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+
+<br/>
+
+**Tools**<br/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
 
 <br/>
 
@@ -47,7 +61,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
 
 </div>
 
@@ -72,7 +86,7 @@
 
 <div align="center">
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:alem6516@naver.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://github.com/SD-gif">
@@ -85,18 +99,21 @@
 
 ---
 
-## 🏅 Stats
+## 🎓 Education
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SD-gif&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1d57af&text_color=c9d1d9&icon_color=1d57af" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD-gif&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1d57af&text_color=c9d1d9" height="165"/>
-</div>
+| 구분 | 기관 | 기간 |
+|------|------|------|
+| 🎓 **단국대학교 학사 졸업** | 단국대학교 | 2025.08 졸업 |
+| 🎓 **Spring 백엔드 부트캠프** | Goorm X KaKao | 2024.08 ~ 2025.04 수료 |
+| 🎓 **생성형 AI 기반 Full-Stack 개발자 양성 과정** | 한국소프트웨어진흥협회 | 2026.02 ~ | 
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SD-gif&theme=github-compact&bg_color=0d1117&color=1d57af&line=1d57af&point=ffffff&hide_border=true" />
-</div>
+## 📜 Certifications
+
+| 구분 | 내용 | 기관 | 기간 |
+|------|------|------|------|
+| 📜 **SQLD** (SQL 개발자) | SQL 개발자 자격증 | 한국데이터산업진흥원 | 2025.12.12 취득 |
 
 <br/>
 
