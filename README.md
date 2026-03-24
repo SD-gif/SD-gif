@@ -1,6 +1,34 @@
-# 안녕하세요, 서동준입니다 👋
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&text=Seo%20Dongjun&fontSize=60&fontColor=58a6ff&fontAlignY=55&desc=Backend%20%2F%20DevOps%20Developer&descSize=20&descColor=8b949e&descAlignY=78&stroke=30363d&strokeWidth=1)
 
-### 🌐 Web Portfolio
-> 제가 만든 프로젝트들을 확인해보세요!
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-seodong.me-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seodong.me)
+<br/>
+
+> 안정적인 서버와 자동화된 파이프라인으로 서비스를 더 단단하게 만듭니다.
+
+<br/>
+
+<a href="https://seodong.me">
+  <img src="https://img.shields.io/badge/🌐%20seodong.me-Visit%20Portfolio-302b63?style=for-the-badge&logoColor=white" height="40"/>
+</a>
+
+<br/><br/>
+
+---
+
+<table border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SD-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a78bfa&text_color=8b949e&rank_icon=github" width="360"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="260"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SD-gif&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=a78bfa&point=58a6ff&area=true" width="644"/>
+
+</div>
