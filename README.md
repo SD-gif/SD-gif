@@ -19,16 +19,16 @@
 <table border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dongjoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a78bfa&text_color=8b949e&rank_icon=github" width="360"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=SD-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a78bfa&text_color=8b949e&rank_icon=github" width="360"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongjoon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="260"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="260"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dongjoon&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=a78bfa&point=58a6ff&area=true" width="644"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SD-gif&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=a78bfa&point=58a6ff&area=true" width="644"/>
 
 </div>
