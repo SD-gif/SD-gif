@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&text=Seo%20Dongjun&fontSize=60&fontColor=58a6ff&fontAlignY=55&desc=Backend%20%2F%20DevOps%20Developer&descSize=20&descColor=8b949e&descAlignY=78&stroke=30363d&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&text=Seo%20DongJoon&fontSize=60&fontColor=58a6ff&fontAlignY=55&desc=Backend%20%2F%20DevOps%20Developer&descSize=20&descColor=8b949e&descAlignY=78&stroke=30363d&strokeWidth=1)
 
 <div align="center">
 
