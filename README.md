@@ -13,19 +13,33 @@
 
 ---
 
+## 📊 Statistics
+
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <img src="https://streak-stats.demolab.com/?user=SD-gif&theme=tokyonight&hide_border=true&background=0d1117" width="360"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&v=2" width="260"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD-gif&layout=compact&hide=html,css&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="260"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SD-gif&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=a78bfa&point=58a6ff&area=true&v=2" width="644"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SD-gif&theme=tokyonight&hide_border=true&bg_color=0d1117&color=58a6ff&line=a78bfa&point=58a6ff&area=true" width="644"/>
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 </div>
