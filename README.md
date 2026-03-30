@@ -19,13 +19,13 @@
       <img src="https://streak-stats.demolab.com/?user=SD-gif&theme=tokyonight&hide_border=true&background=0d1117" width="360"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="260"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&v=2" width="260"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SD-gif&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=a78bfa&point=58a6ff&area=true" width="644"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SD-gif&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=a78bfa&point=58a6ff&area=true&v=2" width="644"/>
 
 </div>
