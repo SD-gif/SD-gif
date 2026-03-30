@@ -11,23 +11,6 @@
 
 <br/><br/>
 
----
-
-## 📊 Statistics
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=SD-gif&theme=tokyonight&hide_border=true&background=0d1117" width="360"/>
-    </td>
-    <td>
-      <img src="https://ghchart.rshah.org/58a6ff/SD-gif" width="644"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SD-gif&theme=tokyonight&hide_border=true&bg_color=0d1117&color=58a6ff&line=a78bfa&point=58a6ff&area=true" width="644"/>
 
 <br/>
